@@ -1,12 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "enari-256115",
-  "private_key_id": "ba4857ffa1a1148ddba309a3602381753ef8ea9a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6mW9ASkBL6ULn\nK0eUNENm/+IDdRqJkvOwLJntlUOQvFierUFsQq6C8xSVfFCH7LvjMtE2vqFrijEK\nqJuRNWsZofVo58FBGZgsDNtNly/0hBxlVpAV2QZ4GKvgsQNrOD2xbvLSe7+n99Yc\nMqLBe03P8wBYtTMFHVlM/Td7nzIkIO/Mti2SM1+7wHSNFtrjtk1IV4QQ/wN6pOVE\n/ysx/yI7fe26Rum4+A10q42CJcahjSG8RGUBDUJZNHRiMAlP4/orNUUMUcRY+nHD\ncjHOqmsOPkwTn+z8biqXcfmjKkLxkJfqgsFur73Amv7yxwH/iSSdEAlwPzCuHxvW\nHLl8U9DLAgMBAAECggEAOj70vCOxSEDKsnAPCtL5iygqe5vNKc5mJML3VXL3QTGZ\nlAZO2qVB5fxMm5DPbm5WA8h0B9ufdXsQbdxNmxkKkli8yv80ksaTeoSU2/ZqcK/g\nUT2hAkDZRRmmZR+8CnbmwwD36P3ZyGuTOQART8XWdyfKHuaIw3ryyhZsgDkkJKRd\nYl5PrN8p5RVxjxF1D6T7MNbLqm2xo2vVS7EYi//v6dGVYTjJJiLJE/t3P8MJSovc\nTQEhabcmeNHHvgVMzKvK+I7zUbDmly+7JCAopfYUr6gtEhQsb/Skbq1nahCA0MC9\nFwHcPPM08ZOo8XH6LBlwBpcdzUe3sheYphVa6hL1yQKBgQD9gun8mfkuyetdHPVY\nrwqgI/KZ4kaEF4C5G5rNYE4o/AiA32M0cEssOcUQkKhhKk5fxUpmuMrn8jgjDdrZ\nPa3cE51g/028j5nbOThjvzdPdXWx9P/Hz3KcLdXZq6UPv207CiQnB3VJFezMsOSV\n41DxdmG4ELQ4Iaq0dA/N7tzUDQKBgQC8bl4UX2uTFtt0ArUypxLU7TUXnkQ3V6j2\ncd5Zuc71WLfluxBtwSlUUyIdWHoXi8dgIa59o8R1m7REatuHRPk3VB/x9VyGumTZ\n6tsGvCjUK3zSAROrIxVBXAi+5upKPlhMmU2H6OseMoNREM4qtfjaI2aFE4nbgYOG\nKLk55dDKNwKBgQDCbKKzXgsjfSyLLuhjaWuGwcsPheB68eOBE9C3bgLDn/eNjsVw\ntCaS9oNSXv8j9eRBwvd6rILBPJ0dFUUgkxNB07FBcMvXr3JaFRpQNZhf0j+/iZyZ\nS1okuWpnFCL1XuSRAQgU/r1OnggMPCYzZjDv3tC27+inm/plhxWP5H9sCQKBgAke\nvmb2B1rjLFP9HZAKDhtIL92ox1x2XbMv57coCyBM3vm7iBwH0VxHecs50Q76sPey\nKaPjHUsj8iGtmlp9uCI5bCJl4ciTlPYHK/qzeLZsNGplqvIJjKnRLosu2gAl7Fgo\nw1vkphycDUcLLS9cB2NnezrNq0p4hkkkB3MJ8IUZAoGAB242P1Jr0Ki0Knbt75x3\n+kUXyNLgbbmijwlHhcaR+DUxyfc9XmiJ4pH4otDrbrWTLkm/0idlZrsLSRNQGD7z\nC1VMkoCNj8ETa40+LhdlP1z3EcZbvhHllJb2IVWLGeOlINpTO6X/GURlxzHT1sYz\nUIeGN6+4I6VP6YnorjjThJ8=\n-----END PRIVATE KEY-----\n",
-  "client_email": "enari-499@enari-256115.iam.gserviceaccount.com",
-  "client_id": "104023651863926525650",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/enari-499%40enari-256115.iam.gserviceaccount.com"
+
 }

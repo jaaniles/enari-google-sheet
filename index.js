@@ -22,13 +22,23 @@ async.series([
         let res = await axios.get("https://statsapi.web.nhl.com/api/v1/teams")
         let { data: { teams } } = res
   
-        data.forEach(async player => {
-          timeout(100)
-          await sheet.addRow({
-            pId: player.id,
-            name: player.fullName
-          }, function(err, rows) {console.log("Error? ", err)})
-        })
+        for (team of teams) {
+          const res = await axios.get(`https://records.nhl.com/site/api/player/byTeam/${team.id}`)
+          const { data: { data } } = res 
+
+          if (team.id !== 1) {
+            return
+          }
+
+          for (player of data) {
+            console.log(player.id)
+            await sleep(150)
+            await sheet.addRow({
+              pId: player.id,
+              name: player.fullName
+            }, function(err, rows) {console.log("Error? ", err)})
+          }
+        }
       })
     },
   ], function(err){
