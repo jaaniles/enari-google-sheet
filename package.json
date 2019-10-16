@@ -1,0 +1,26 @@
+{
+  "name": "enari-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.1.0",
+    "await-sleep": "^0.0.1",
+    "axios": "^0.19.0",
+    "google-spreadsheet": "^2.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaaniles/enari-google-sheet.git"
+  },
+  "author": "jaaniles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaaniles/enari-google-sheet/issues"
+  },
+  "homepage": "https://github.com/jaaniles/enari-google-sheet#readme"
+}
