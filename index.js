@@ -8,7 +8,7 @@ var sheet;
  
 async.series([
     function setAuth(step) {
-        var creds = require('./enari-creds.json');
+        var creds = require('./secret/enari-creds.json');
         doc.useServiceAccountAuth(creds, step);
       },
     async function jynkInfoToSheet(step) {
