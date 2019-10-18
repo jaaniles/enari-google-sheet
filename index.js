@@ -3,7 +3,7 @@ var async = require('async');
 var axios = require('axios')
 var sleep = require('await-sleep')
  
-var doc = new GoogleSpreadsheet('144hvf0N3AyHXN1CzF40aO43Dy7nqLPGqt6Ib4f0vCpA');
+var doc = new GoogleSpreadsheet('');
 var sheet;
  
 async.series([
